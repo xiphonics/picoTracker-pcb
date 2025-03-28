@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2, H3",MountingHole_3.2mm_M3,3,MountingHole,
+J1,Hirose_DF12_DF12E3.0-20DP-0.5V_2x10_P0.50mm_Vertical,1,DF12NC(5.0)-20DP-0.5V(51),C3650665
+SW10,Cherry-MX-Low-Profile-kailh,1,NAV,C400229
+SW11,Cherry-MX-Low-Profile-kailh,1,PLAY,C400229
+SW3,Cherry-MX-Low-Profile-kailh,1,LEFT,C400229
+SW4,Cherry-MX-Low-Profile-kailh,1,DOWN,C400229
+SW5,Cherry-MX-Low-Profile-kailh,1,RIGHT,C400229
+SW6,Cherry-MX-Low-Profile-kailh,1,UP,C400229
+SW7,Cherry-MX-Low-Profile-kailh,1,ALT,C400229
+SW8,Cherry-MX-Low-Profile-kailh,1,EDIT,C400229
+SW9,Cherry-MX-Low-Profile-kailh,1,ENTER,C400229

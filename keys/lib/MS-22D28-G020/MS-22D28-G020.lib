@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MS-22D28-G020
+#/16084106/1132021/2.50/6/4/Switch
+DEF MS-22D28-G020 S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "MS-22D28-G020" 1050 200 50 H V L CNN
+F2 "MS22D28G020" 1050 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/lcsc/2012062037_G-Switch-MS-22D28-G020_C963205.pdf" 1050 0 50 H I L CNN
+F4 "SMD,7x4x2.1mm Slide Switches ROHS" 1050 -100 50 H I L CNN "Description"
+F5 "4.25" 1050 -200 50 H I L CNN "Height"
+F6 "G-Switch Electronic" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MS-22D28-G020" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NO_1 1 1200 0 200 L 50 50 0 0 P
+X COM_1 2 1200 -100 200 L 50 50 0 0 P
+X NC_1 3 1200 -200 200 L 50 50 0 0 P
+X NO_2 4 0 0 200 R 50 50 0 0 P
+X COM_2 5 0 -100 200 R 50 50 0 0 P
+X NC_2 6 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

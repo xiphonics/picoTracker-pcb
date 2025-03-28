@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PJ-327C-4A
+D 3.5mm headphone jack 30V 500mA SMD  Audio Connectors ROHS
+K
+F https://datasheet.lcsc.com/lcsc/1810121720_Korean-Hroparts-Elec-PJ-327C-4A_C145813.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ24232HRGTR
+D USB-Friendly Lithium Based Battery Charger With Power-Path For 4.35V Batteries
+K
+F http://www.ti.com/lit/gpn/bq24232h
+$ENDCMP
+#
+#End Doc Library

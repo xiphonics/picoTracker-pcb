@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25890RTWR
+D 1S 5A Fast Charger MaxCharge Technology for High Input Voltage and Adjustable USB OTG Boost
+K
+F http://www.ti.com/lit/gpn/bq25890
+$ENDCMP
+#
+#End Doc Library
