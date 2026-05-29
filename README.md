@@ -1,6 +1,7 @@
 # PCB for PicoTracker
 All data in order to fabricate the PCB for the [picoTracker](https://github.com/xiphonics/picoTracker)
 
+Buy the official kit at [xiphonics store](https://xiphonics.com/products/picotracker-pcb-kit)
 # Trademark Notice
 
 This repository contains the open-source hardware design files for the picoTracker project.
